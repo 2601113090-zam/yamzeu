@@ -1,0 +1,1 @@
+Built from scratch using HTML and CSS lessons discussed in class. Visual design and layout inspired by https://www.oneetnwt.tech
